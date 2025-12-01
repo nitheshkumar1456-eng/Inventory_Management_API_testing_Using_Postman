@@ -1,0 +1,17 @@
+[
+  {
+    "ProductName": "EcoSmart Water Bottle",
+    "Suppliers": "GreenLeaf Distributors",
+    "Stocks": true
+  },
+  {
+    "ProductName": "Bluetooth Headphones Pro",
+    "Suppliers": "SoundWave Electronics",
+    "Stocks": false
+  },
+  {
+    "ProductName": "UltraSoft Cotton T-Shirt",
+    "Suppliers": "ComfortWear Apparel",
+    "Stocks": true
+  }
+]
